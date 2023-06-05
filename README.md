@@ -25,7 +25,9 @@ Wild dataset:https://drive.google.com/file/d/1bQMglioFb50HVwfYaYhVkFXVJIRf42Nm/v
 
 Beautyface: https://drive.google.com/file/d/1mhoopmi7OlsClOuKocjldGbTYnyDzNMc/view?usp=sharing
 
-Beautyface parsing: https://drive.google.com/file/d/1sRE-VvC63Cyn_VNUOKYO4WY762_qEjX2/view?usp=sharing
+Beautyface parsing(vis): https://drive.google.com/file/d/1sRE-VvC63Cyn_VNUOKYO4WY762_qEjX2/view?usp=sharing
+
+Beautyface parsing maps: https://drive.google.com/file/d/1WgadvcV1pUtEMCYxjwWBledEQfDbadn7/view?usp=sharing
 
 Environments: 
 
