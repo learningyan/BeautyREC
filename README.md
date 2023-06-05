@@ -23,6 +23,10 @@ MT dataset: https://drive.google.com/file/d/1jP7CpiczZ9KjTQu87PEERrN7BOrxB5St/vi
 
 Wild dataset:https://drive.google.com/file/d/1bQMglioFb50HVwfYaYhVkFXVJIRf42Nm/view?usp=sharing 
 
+Beautyface: https://drive.google.com/file/d/1mhoopmi7OlsClOuKocjldGbTYnyDzNMc/view?usp=sharing
+
+Beautyface parsing: https://drive.google.com/file/d/1sRE-VvC63Cyn_VNUOKYO4WY762_qEjX2/view?usp=sharing
+
 Environments: 
 
 ```
